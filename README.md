@@ -60,15 +60,8 @@ A desktop backup application that provides a simple, intuitive GUI for managing 
    ```
 
 4. **Activate the virtual environment:**
-   
-   On Linux/macOS:
    ```bash
    source venv/bin/activate
-   ```
-   
-   On Windows:
-   ```bash
-   venv\Scripts\activate
    ```
 
 5. **Install dependencies:**
@@ -217,4 +210,5 @@ SOFTWARE.
 ```
 
 ---
+
 Made with ❤️ for the Linux and Python communities.
